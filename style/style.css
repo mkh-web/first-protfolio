@@ -544,6 +544,7 @@ text-align: center;
     width: 200px;
     height: 200px;
     border-radius: 50%;
+    z-index: 999;
     animation: ring 2s linear infinite;
 }
 
